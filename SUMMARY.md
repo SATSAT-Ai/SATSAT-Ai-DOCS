@@ -7,7 +7,6 @@
   * [Making Requests](api/making-requests.md)
   * [Rate Limiting And Throttling](api/rate-limiting-and-throttling.md)
   * [Error Codes](api/error-codes.md)
-* [Page](page.md)
 * [🪝 Webhooks](webhooks/README.md)
   * [Configuration](webhooks/configuration.md)
   * [Authentication](webhooks/authentication.md)
